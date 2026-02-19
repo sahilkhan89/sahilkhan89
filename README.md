@@ -33,18 +33,81 @@
 
 <br>
 
-## 💻 Programming Languages <p align="center"> <img src="https://skillicons.dev/icons?i=java,c&theme=dark" height="60"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white"/> </p> --- ## 🚀 Backend & Frameworks <p align="center"> <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="60"/> </p> <p align="center"> <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge"/> </p> --- ## 🗄 Database <p align="center"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"/> </p> --- ## 🌐 Web Technologies <p align="center"> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/> </p> --- ## ⚙ Tools & Utilities <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode&theme=dark" height="60"/> </p> --- ## 🧠 Core Competencies <p align="center"> Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization </p> --- ## 🤝 Soft Skills <p align="center"> Analytical Thinking • Collaboration • Adaptability </p> ---
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c&theme=dark" height="60"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Backend & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="60"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"/>
+</p>
+
+---
+
+## 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/>
+</p>
+
+---
+
+## ⚙ Tools & Utilities
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode&theme=dark" height="60"/>
+</p>
+
+---
+
+## 🧠 Core Competencies
+
+<p align="center">
+Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization
+</p>
+
+---
+
+## 🤝 Soft Skills
+
+<p align="center">
+Analytical Thinking • Collaboration • Adaptability
+</p>
+
+---
 
 # 📂 Featured Projects
 
-### 🛒 E-Commerce Web Application  
+### 🛒 E-Commerce Web Application
 Spring Boot and MySQL based platform with Thymeleaf UI.  
 Reduced cart abandonment by 50% and improved user experience.
 
-### 📢 Digital Notice Board  
+### 📢 Digital Notice Board
 Role-based secure information system with dynamic templates.
 
-### 🎓 Singaji Recruitment Portal  
+### 🎓 Singaji Recruitment Portal
 Placement management system that increased student job applications by 50%.
 
 ---
