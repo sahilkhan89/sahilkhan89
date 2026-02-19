@@ -1,20 +1,28 @@
-# 👋 Hi, I'm Sahil Khan
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#0A66C2;">Shahil Khan</span>
+</h1>
+
+<h3 align="center">
+  🚀 Backend Developer | Java & Spring Boot Specialist
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+Specialist;Building+Scalable+REST+APIs;MCA+Student+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Designing+High-Performance+REST+APIs;Java+%7C+Spring+Boot+%7C+MySQL;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilkhan89&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sahilkhan89&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sahilkhan89?label=Followers&style=for-the-badge&color=0A66C2&logo=github" />
+  <img src="https://img.shields.io/github/stars/sahilkhan89?label=Stars&style=for-the-badge&color=F39C12&logo=github" />
 </p>
 
 ---
 
-## 🚀 Backend Developer | MCA Student at Sage University
-
-I am a passionate **Backend Developer** focused on building scalable server-side applications and high-performance RESTful APIs.
-
-Currently working at **AWNS Technologies**, where I design and optimize discount management systems for large-scale food delivery applications.
+<p align="center">
+  💼 Backend Developer @ AWNS Technologies &nbsp; | &nbsp;
+  🎓 MCA Student &nbsp; | &nbsp;
+  📍 Madhya Pradesh, India
+</p>
 
 ---
 
