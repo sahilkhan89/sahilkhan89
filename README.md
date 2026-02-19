@@ -37,72 +37,43 @@
 
 ---
 
-# 🛠 Tech Stack
+<p align="center">
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Java%20%F0%9F%94%A5&width=300&height=100"/>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Spring%20Boot%20%F0%9F%9A%80&width=300&height=100"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hibernate&width=300&height=100"/>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=REST%20API&width=300&height=100"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=MySQL%20%F0%9F%97%84&width=300&height=100"/>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=JDBC&width=300&height=100"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=HTML%20%26%20CSS&width=300&height=100"/>
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Git%20%7C%20Maven%20%7C%20Gradle&width=300&height=100"/>
+
+</p>
 
 ---
 
-## 💻 Programming Languages
+## 🧠 Core Expertise
 
-```yaml
-Java        ████████████████████  Advanced
-Java 8      ███████████████████   Advanced
-C           ████████████████      Intermediate
-```
+<p align="center">
+Agile Development • Object-Oriented Programming • Clean Architecture • Debugging • System Optimization
+</p>
 
 ---
-
-## 🚀 Backend Engineering
-
-```yaml
-Spring Boot       ████████████████████  Production Level
-Hibernate         ████████████████      Strong
-JDBC              ████████████████      Strong
-RESTful APIs      ████████████████████  Scalable Systems
-```
-
----
-
-## 🗄 Database
-
-```yaml
-MySQL        ████████████████████  Optimized Queries
-```
-
----
-
-## 🌐 Web Technologies
-
-```yaml
-HTML         ████████████████
-CSS          ███████████████
-```
-
----
-
-## ⚙ Tools & Utilities
-
-```yaml
-Git          ████████████████
-Postman      ███████████████
-Maven        ███████████████
-Gradle       ██████████████
-VS Code      ███████████████
-```
-
----
-
-## 🧠 Core Competencies
-
-Agile Methodologies • Debugging • Object-Oriented Programming • Clean Architecture • REST API Design • System Optimization
-
----
-
-## 🤝 Soft Skills
-
-Analytical Thinking • Collaboration • Adaptability • Problem Solving
-
----
-
 
 # 📂 Featured Projects
 
