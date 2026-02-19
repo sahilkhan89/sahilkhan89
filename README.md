@@ -1,81 +1,115 @@
-<div align="center">Hi, I'm Shahil Khan 👋</div>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Java+%7C+Spring+Boot+Specialist;REST+API+Architect;Building+Scalable+Systems;Problem+Solver+%7C+Continuous+Learner" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilkhan89&label=Profile+Views&color=00C2FF&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/sahilkhan89?style=for-the-badge&color=00C2FF" /> </p>
-🚀 Backend Developer | Java & Spring Boot
+# 👋 Hi, I'm Shahil Khan
 
-I build scalable backend systems and high-performance REST APIs.
-Currently working on production-level discount & pricing engines.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+Specialist;Building+Scalable+REST+APIs;MCA+Student+%7C+Problem+Solver" />
+</p>
 
-💼 Backend Developer @ AWNS Technologies
-🎓 MCA Student (Sage University, Indore)
-📍 Madhya Pradesh, India
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilkhan89&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+</p>
 
-🧠 About Me
-name: Shahil Khan
-role: Backend Developer
-focus: Scalable APIs & System Design
-strengths: Debugging | Optimization | Clean Architecture
-currently_learning: Advanced Spring & Microservices
+---
 
+## 🚀 Backend Developer | MCA Student at Sage University
 
-I enjoy solving complex backend problems and turning business logic into reliable, scalable systems.
+I am a passionate **Backend Developer** focused on building scalable server-side applications and high-performance RESTful APIs.
 
-⚡ Tech Stack
-👨‍💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,c" /> </p>
-🚀 Backend
-<p> <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" /> </p>
-🌐 Web
-<p> <img src="https://skillicons.dev/icons?i=html,css" /> </p>
-🛠 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode" /> </p>
-💼 Experience
-🔥 Backend Developer — AWNS Technologies
+Currently working at **AWNS Technologies**, where I design and optimize discount management systems for large-scale food delivery applications.
 
-Designed item-level & cart-level discount engine
+---
 
-Built scalable REST APIs for pricing logic
+# 🛠 Skills & Technologies
 
-Optimized backend performance under high load
+## 🌐 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java 8](https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-💻 Java Intern — Singaji Software Solutions
+---
 
-Developed backend modules
+## 🚀 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-Optimized SQL queries
+---
 
-Worked in Agile environment
+## 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-🚀 Featured Projects
-🔹 Recruitment Portal
+---
 
-🔗 https://github.com/sahilkhan89/SingajiRecruitmentPortal
+## 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Spring Boot based job portal system.
+---
 
-🔹 Digital Notice Board
+## ⚙ Tools & Utilities
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🔗 https://github.com/sahilkhan89/Digital-Notice-Board
+---
 
-Role-based secure notice management system.
+## 🧠 Core Competencies
+![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-0052CC?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-6A1B9A?style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge)
+![Object-Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-FF6F00?style=for-the-badge)
 
-🔹 E-Commerce Web App
+---
 
-🔗 https://github.com/sahilkhan89/spring-boot-ECommerce-web-application
+## 🤝 Soft Skills
+![Analytical](https://img.shields.io/badge/Analytical-1E88E5?style=for-the-badge)
+![Collaborator](https://img.shields.io/badge/Collaborator-43A047?style=for-the-badge)
+![Adaptable](https://img.shields.io/badge/Adaptable-F4511E?style=for-the-badge)
 
-Full shopping workflow with Spring Boot + MySQL.
+---
 
-📊 GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilkhan89&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan89&layout=compact&theme=tokyonight" /> </p>
-🐍 Contribution Snake Animation
-<p align="center"> <img src="https://github.com/sahilkhan89/sahilkhan89/blob/output/github-contribution-grid-snake.svg" /> </p>
+# 📂 Featured Projects
 
-(You can enable this via GitHub Actions — tell me if you want setup steps.)
+### 🛒 E-Commerce Web Application
+Spring Boot and MySQL based platform with Thymeleaf UI.  
+Reduced cart abandonment by 50% and improved user experience.
 
-🏆 Certifications
+### 📢 Digital Notice Board
+Role-based secure information system with dynamic templates.
 
-🏅 HackerRank Java (Basic)
-🏅 GreatLearning Java Programming
-🏅 ITEG Level A
+### 🎓 Singaji Recruitment Portal
+Placement management system that increased student job applications by 50%.
 
-🤝 Let's Connect
-<p align="center"> <a href="http://linkedin.com/in/sahil-khan10"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:shahilkhan.tech@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-00C2FF?style=for-the-badge&logo=gmail"/> </a> </p>
+---
+
+# 📈 Professional Experience
+
+### Backend Developer | AWNS Technologies (Aug 2025 – Present)
+- Designed item-level and cart-level discount management systems  
+- Built and optimized scalable RESTful APIs  
+- Improved backend performance for high-traffic environments  
+
+### Java Development Intern | Singaji Software Solutions (Aug 2023 – Jan 2024)
+- Enhanced Java application performance and security  
+- Optimized SQL databases for efficient data retrieval  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilkhan89&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan89&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-khan10)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahilkhan.tech@gmail.com)
+
+---
+
+⭐ Building reliable backend systems that scale.
