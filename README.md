@@ -28,7 +28,6 @@
 # 🛠 Skills & Technologies
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0A66C2&height=120&section=header"/>
 
 # 🛠 Tech Arsenal
 
@@ -103,7 +102,6 @@ Analytical Thinking • Collaboration • Adaptability
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2FF&height=120&section=footer"/>
 
 # 📂 Featured Projects
 
@@ -149,3 +147,6 @@ Placement management system that increased student job applications by 50%.
 ---
 
 ⭐ Building reliable backend systems that scale.
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2FF&height=120&section=footer"/>
