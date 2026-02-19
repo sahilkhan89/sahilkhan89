@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahil Khan
+# 👋 Hi, I'm Sahil Khan
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+Specialist;Building+Scalable+REST+APIs;MCA+Student+%7C+Problem+Solver" />
