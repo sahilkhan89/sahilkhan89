@@ -28,67 +28,83 @@
 # 🛠 Skills & Technologies
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0A66C2&height=120&section=header"/>
+
 # 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+MySQL;RESTful+API+Development;Agile+%7C+OOP+%7C+Debugging;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+MySQL;RESTful+API+Development;Agile+%7C+OOP+%7C+Debugging;Scalable+Backend+Architecture" />
 </p>
 
 ---
 
-## 🚀 Backend Engineering
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" height="60" />
-
-</div>
+## 💻 Programming Languages
 
 <p align="center">
-High-performance REST APIs • Discount Engine Logic • Scalable Architecture
+  <img src="https://skillicons.dev/icons?i=java,c&theme=dark" height="60"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Web Layer
+## 🚀 Backend & Frameworks
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="60"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css" height="55" />
-
-</div>
-
----
-
-## ⚙️ Tools & Build Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode" height="55" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧠 Core Strengths
+## 🗄 Database
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"/>
+</p>
 
+---
+
+## 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/>
+</p>
+
+---
+
+## ⚙ Tools & Utilities
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode&theme=dark" height="60"/>
+</p>
+
+---
+
+## 🧠 Core Competencies
+
+<p align="center">
 Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization
-
-</div>
+</p>
 
 ---
 
 ## 🤝 Soft Skills
 
-<div align="center">
-
+<p align="center">
 Analytical Thinking • Collaboration • Adaptability
-
-</div>
+</p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C2FF&height=120&section=footer"/>
+
 # 📂 Featured Projects
 
 ### 🛒 E-Commerce Web Application
