@@ -37,68 +37,69 @@
 
 ---
 
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c&theme=dark" height="60"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+# 🛠 Tech Stack
 
 ---
 
-## 🚀 Backend & Frameworks
+## 💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="60"/>
-</p>
+```yaml
+Java        ████████████████████  Advanced
+Java 8      ███████████████████   Advanced
+C           ████████████████      Intermediate
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge"/>
-</p>
+---
+
+## 🚀 Backend Engineering
+
+```yaml
+Spring Boot       ████████████████████  Production Level
+Hibernate         ████████████████      Strong
+JDBC              ████████████████      Strong
+RESTful APIs      ████████████████████  Scalable Systems
+```
 
 ---
 
 ## 🗄 Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"/>
-</p>
+```yaml
+MySQL        ████████████████████  Optimized Queries
+```
 
 ---
 
 ## 🌐 Web Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/>
-</p>
+```yaml
+HTML         ████████████████
+CSS          ███████████████
+```
 
 ---
 
 ## ⚙ Tools & Utilities
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode&theme=dark" height="60"/>
-</p>
+```yaml
+Git          ████████████████
+Postman      ███████████████
+Maven        ███████████████
+Gradle       ██████████████
+VS Code      ███████████████
+```
 
 ---
 
 ## 🧠 Core Competencies
 
-<p align="center">
-Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization
-</p>
+Agile Methodologies • Debugging • Object-Oriented Programming • Clean Architecture • REST API Design • System Optimization
 
 ---
 
 ## 🤝 Soft Skills
 
-<p align="center">
-Analytical Thinking • Collaboration • Adaptability
-</p>
+Analytical Thinking • Collaboration • Adaptability • Problem Solving
 
 ---
 
