@@ -1,110 +1,60 @@
-💻 Shahil Khan
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot+Specialist;REST+API+Architect;Building+Scalable+Systems" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilkhan89&label=Profile%20Views&color=0A66C2&style=for-the-badge" /> </p>
-🚀 Backend Developer | Java & Spring Boot
+# 👋 Hi, I'm Shahil Khan
+### Backend Developer | [cite_start]MCA Student at Sage University [cite: 1, 6]
 
-📍 Harda, Madhya Pradesh, India
-📧 shahilkhan.tech@gmail.com
+[cite_start]I am a passionate **Backend Developer** currently focusing on building scalable server-side applications and high-performance APIs[cite: 4, 14]. [cite_start]Currently, I am working at **AWNS Technologies**, where I design discount management logic for large-scale food delivery applications[cite: 11, 13].
 
-🔗 LinkedIn
+---
 
-👨‍💼 Professional Summary (Recruiter Focused)
+## 🛠 Skills
 
-Backend Developer with hands-on experience in designing and building scalable backend systems using Java & Spring Boot.
+### 🌐 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-✔ Experience in REST API Development
-✔ Strong understanding of OOP & MVC Architecture
-✔ Database Optimization (MySQL)
-✔ Real-world production experience in discount & pricing systems
-✔ Agile Development & Debugging
+### 💻 Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-Currently working as Backend Developer at AWNS Technologies, contributing to large-scale food delivery system backend logic.
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-🏢 Experience
-🔹 Backend Developer | AWNS Technologies (Aug 2025 – Present)
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C00.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-Designed and implemented dynamic discount engine (item-level & cart-level).
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Built high-performance REST APIs handling pricing & offer logic.
+---
 
-Ensured scalability under high traffic load.
+## 📂 Featured Projects
 
-Improved system accuracy and business logic validation.
+* [cite_start]**🛒 E-Commerce Platform:** Built with Spring Boot and MySQL; reduced cart abandonment by 50% using Thymeleaf[cite: 33, 34, 36, 37].
+* [cite_start]**📢 Digital Notice Board:** Implemented secure user roles using Auth0 and dynamic templates for information sharing[cite: 27, 31, 32].
+* [cite_start]**🎓 Singaji Job Portal:** Developed a placement web app that increased student job applications by 50%[cite: 21, 23, 25].
 
-🔹 Java Development Intern | Singaji Software Solutions (Aug 2023 – Jan 2024)
+---
 
-Developed backend modules using Java.
+## 📈 Professional Experience
 
-Optimized SQL queries and improved DB performance.
+* **Backend Developer** | [cite_start]**AWNS Technologies** (Aug 2025 - Present) [cite: 10, 11, 12]
+    * [cite_start]Designing discount management flows for food delivery applications[cite: 13].
+    * [cite_start]Optimizing RESTful APIs for high-traffic scalability[cite: 14].
+* **Java Development Intern** | [cite_start]**Singaji Software Solutions** (Aug 2023 - Jan 2024) [cite: 15, 16, 17]
+    * [cite_start]Enhanced performance and security of Java applications[cite: 18].
+    * [cite_start]Optimized SQL databases for efficient data storage and retrieval[cite: 19].
 
-Collaborated in Agile sprint cycles.
+---
 
-🛠 Tech Stack
-💻 Languages
+## 📫 Connect with Me
 
-Java Java 8 C
+[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-khan10) [cite: 2]
+[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahilkhan.tech@gmail.com) [cite: 2]
 
-🚀 Backend
-
-Spring Boot Hibernate JDBC REST APIs MVC
-
-🗄 Database
-
-MySQL
-
-🌐 Web
-
-HTML CSS Thymeleaf
-
-⚙ Tools
-
-Git Postman Maven Gradle VS Code
-
-🚀 Featured Projects
-🔹 Singaji Recruitment Portal
-
-🔗 https://github.com/sahilkhan89/SingajiRecruitmentPortal
-
-Placement management system.
-
-Increased applications by 50%.
-
-Spring Boot + MySQL based architecture.
-
-🔹 Digital Notice Board
-
-🔗 https://github.com/sahilkhan89/Digital-Notice-Board
-
-Role-based authentication (Admin/Super Admin).
-
-Dynamic template selection.
-
-Improved information accessibility by 30%.
-
-🔹 E-Commerce Web Application
-
-🔗 https://github.com/sahilkhan89/spring-boot-ECommerce-web-application
-
-Reduced cart abandonment by 50%.
-
-Built full shopping workflow using Spring Boot & Thymeleaf.
-
-📊 GitHub Analytics
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sahilkhan89&show_icons=true&theme=tokyonight" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan89&layout=compact&theme=tokyonight" /> </p>
-🏆 Certifications
-
-ITEG Level A Certificate
-
-HackerRank Java (Basic)
-
-GreatLearning Java Programming
-
-🎯 What I Bring to a Team
-
-✔ Clean, maintainable backend architecture
-✔ Scalable API design
-✔ Strong debugging & optimization skills
-✔ Problem-solving mindset
-✔ Continuous learner
-
-🤝 Let's Connect
-<p align="center"> <a href="http://linkedin.com/in/sahil-khan10"> <img src="https://img.shields.io/badge/LinkedIn-Shahil%20Khan-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p>
+---
+[cite_start]*"I hereby declare that all information provided here is authentic to the fullest of my knowledge."* [cite: 43]
