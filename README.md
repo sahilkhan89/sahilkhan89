@@ -27,76 +27,109 @@
 
 # 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+MySQL;RESTful+API+Development;Agile+%7C+OOP+%7C+Debugging" />
-</p>
-
-<br>
+---
 
 ## 💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c&theme=dark" height="60"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+Java
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+C
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Backend & Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="60"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=spring" width="55"/><br>
+Spring Boot
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge"/>
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=hibernate" width="55"/><br>
+Hibernate
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+REST API
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🗄 Database
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"/>
-</p>
-
----
-
-## 🌐 Web Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+MySQL
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙ Tools & Utilities
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode&theme=dark" height="60"/>
-</p>
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+Git
+</td>
 
----
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+GitHub
+</td>
 
-## 🧠 Core Competencies
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=maven" width="55"/><br>
+Maven
+</td>
 
-<p align="center">
-Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization
-</p>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gradle" width="55"/><br>
+Gradle
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+VS Code
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Soft Skills
 
-<p align="center">
-Analytical Thinking • Collaboration • Adaptability
-</p>
+<table>
+<tr>
+<td align="center" width="150">🧠<br><b>Analytical Thinking</b></td>
+<td align="center" width="150">🤝<br><b>Collaboration</b></td>
+<td align="center" width="150">⚡<br><b>Adaptability</b></td>
+<td align="center" width="150">🎯<br><b>Problem Solving</b></td>
+</tr>
+</table>
 
 ---
+
+
 
 # 📂 Featured Projects
 
