@@ -78,6 +78,11 @@ REST API
 <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
 MySQL
 </td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
+PostgreSQL
+</td>
 </tr>
 </table>
 
