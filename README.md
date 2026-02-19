@@ -33,35 +33,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Java&width=260&height=90"/>
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Spring%20Boot&width=260&height=90"/>
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hibernate&width=260&height=90"/>
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=REST%20API&width=260&height=90"/>
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=MySQL&width=260&height=90"/>
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=JDBC&width=260&height=90"/>
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=HTML%20%26%20CSS&width=260&height=90"/>
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Git%20%7C%20Maven%20%7C%20Gradle&width=260&height=90"/>
-</p>
-
----
-
-## 🧠 Core Expertise
-
-<p align="center">
-Agile Development • Object-Oriented Programming • Clean Architecture • Debugging • System Optimization
-</p>
-
----
+## 💻 Programming Languages <p align="center"> <img src="https://skillicons.dev/icons?i=java,c&theme=dark" height="60"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white"/> </p> --- ## 🚀 Backend & Frameworks <p align="center"> <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="60"/> </p> <p align="center"> <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge"/> </p> --- ## 🗄 Database <p align="center"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60"/> </p> --- ## 🌐 Web Technologies <p align="center"> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/> </p> --- ## ⚙ Tools & Utilities <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode&theme=dark" height="60"/> </p> --- ## 🧠 Core Competencies <p align="center"> Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization </p> --- ## 🤝 Soft Skills <p align="center"> Analytical Thinking • Collaboration • Adaptability </p> ---
 
 # 📂 Featured Projects
 
