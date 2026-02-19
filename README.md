@@ -28,66 +28,65 @@
 # 🛠 Skills & Technologies
 
 ---
-
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c" />
-</p>
+# 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java_8-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+MySQL;RESTful+API+Development;Agile+%7C+OOP+%7C+Debugging;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
+## 🚀 Backend Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" height="60" />
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JDBC-003B57?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_API-00897B?style=for-the-badge" />
-</p>
-
----
-
-## 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+High-performance REST APIs • Discount Engine Logic • Scalable Architecture
 </p>
 
 ---
 
-## 🌐 Web Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+## 🌐 Web Layer
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css" height="55" />
+
+</div>
 
 ---
 
-## ⚙️ Tools & Utilities
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode" />
-</p>
+## ⚙️ Tools & Build Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,gradle,vscode" height="55" />
+
+</div>
 
 ---
 
-## 🧠 Core Competencies
-<p align="center">
-  <img src="https://img.shields.io/badge/Agile_Methodologies-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Debugging-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-FF6F00?style=for-the-badge" />
-</p>
+## 🧠 Core Strengths
+
+<div align="center">
+
+Agile Methodologies • Debugging • Object-Oriented Programming • Clean Code • System Optimization
+
+</div>
 
 ---
 
 ## 🤝 Soft Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Analytical-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collaborator-43A047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adaptable-F4511E?style=for-the-badge" />
-</p>
+
+<div align="center">
+
+Analytical Thinking • Collaboration • Adaptability
+
+</div>
 
 ---
 # 📂 Featured Projects
